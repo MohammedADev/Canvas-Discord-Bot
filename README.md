@@ -83,7 +83,7 @@ This project is not affiliated with, maintained, or endorsed by Instructure, Inc
 
 ## Getting Started
 
-Node.js: Make sure you have Node.js installed on your system. If not, you can download it from the official Node.js website.
+`Node.js: Make sure you have Node.js installed on your system. If not, you can download it from the official Node.js website.`
 
 Canvas API Credentials:
 
